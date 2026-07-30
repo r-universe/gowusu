@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "floodflow"]
+	path = floodflow
+	url = https://github.com/gowusu/floodflow
 [submodule "sebkc"]
 	path = sebkc
 	url = https://github.com/gowusu/sebkc
